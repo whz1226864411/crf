@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="crf" target="1.5" />
+      <module name="pic" target="1.5" />
+      <module name="upload" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
